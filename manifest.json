@@ -4,7 +4,7 @@
   "name": "Unmark",
   "description": "Unmark's Chrome extension for saving your marks.",
   "version": "1.0.1",
-  "homepage_url": "https://unmark.it",
+  "homepage_url": "https://unmark.cs90.co",
 
   "icons": {
     "16":  "images/icon-16.png",
@@ -15,7 +15,7 @@
   "permissions": [
     "tabs",
     "contextMenus",
-    "*://unmark.it/"
+    "*://unmark.cs90.co/"
   ],
 
   "omnibox": { "keyword" : "unmark" },
